@@ -1,2 +1,4 @@
 # PrepCourse-Henry-1
-Primer repositorio creado en el modulo 2 del pre-Henry
+Yeferson Pelaez
+El repositorio creado de prueba en el Prepcourse de Hensry**
+
